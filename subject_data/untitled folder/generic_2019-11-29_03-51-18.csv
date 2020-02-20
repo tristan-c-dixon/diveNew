@@ -1,0 +1,12 @@
+timestamp,timestamp_16,position_lat,position_long,distance,enhanced_altitude,altitude,enhanced_speed,speed,heart_rate,cadence,fractional_cadence,temperatureserial_number,time_created,manufacturer,garmin_product,number,unkown_6,type,compressed_calibrated_accel_x,compressed_calibrated_accel_y,compressed_calibrated_accel_z
+,,,,,,,,,,,,,2019-11-29 03:51:18,garmin,9999,None,,activity,,,
+,,,,,,,,,,,,,,,,,,,,,
+2019-11-28 21:51:18-06:00,,,,,,,,,,,,,,,,,,,,,
+2019-11-28 21:51:18-06:00,,,,,,,,,,,,,,garmin,9999,,,,,,
+2019-11-28 21:51:18-06:00,,,,,,,,,,,,,,garmin,0,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+2019-11-28 21:51:18-06:00,,0.0,0.0,0.0,-18.0,-18.0,0.0,0.0,,,,,,,,,,,,,
